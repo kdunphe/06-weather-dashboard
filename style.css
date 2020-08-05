@@ -1,0 +1,15 @@
+h1 {
+    background-color: lightseagreen;
+    text-align: center;
+    color: white;
+    padding: 10px;
+}
+
+h2 {
+    font-size: 24px;
+}
+
+.col-8 {
+    border: 1px solid lightslategrey;
+    border-radius: 20px;
+}
