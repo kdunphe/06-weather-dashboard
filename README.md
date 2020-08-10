@@ -6,4 +6,4 @@ The HTML & CSS are in place for the JavaScript. Decided to spend time this week 
 
 _Link to deployed website:_ https://kdunphe.github.io/06-weather-dashboard/
 
-![Weather-App](/assets/Weather-App.png)
+![Weather-App](/Assets/Weather-App.png)
